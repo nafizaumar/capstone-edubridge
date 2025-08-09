@@ -1,7 +1,6 @@
 # Capstone Project
 
-# Project Title:
-Airbnb Price Recommendation
+# Title: Airbnb Price Recommendation
 
 # Objective:
 To build a regression model that predicts the price of Airbnb listings using various features like location, property type, number of beds, and room type.
