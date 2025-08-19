@@ -25,7 +25,7 @@ To build a regression model that predicts the price of Airbnb listings using var
 
 5. Model Evaluation 
    - Metrics: R² Score, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE)  
-   - Final predicted price: $163.89
+   - Predicted price
 
 # Tools & Libraries Used:
 - Python  
